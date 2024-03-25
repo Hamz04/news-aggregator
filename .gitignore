@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+digest.md
+digest.json
+daily.log
